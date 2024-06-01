@@ -16,11 +16,7 @@ Summize is an open-source article summarizer that transforms lengthy articles in
 - 🔄 **State Management**: Uses Redux Toolkit for state management.
 - 🌐 **API Integration**: Leverages RapidAPI for article extraction and summarization.
 
-## 🎥 Demo
-
-![Summize Demo](demo.gif)
-
-## 📺 Demo Video
+## 🎥 Demo Video
 
 Watch the demo video to see Summize in action:
 
@@ -83,6 +79,7 @@ Make sure you have the following installed on your local machine:
 
 ## 📂 Project Structure
 
+![Screenshot 2024-06-01 185357](https://github.com/KDvs123/ai-summeriser/assets/119438971/28c9bb37-73d8-4020-a29c-928746edfab9)
 
 
 ## 🤝 Contributing
