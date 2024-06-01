@@ -20,7 +20,8 @@ Summize is an open-source article summarizer that transforms lengthy articles in
 
 Watch the demo video to see Summize in action:
 
-[![Summize Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+https://github.com/KDvs123/ai-summeriser/assets/119438971/b0c7d8fa-607a-40e5-a50e-b87466f9f34d
 
 ## 🛠️ Tech Stack
 
@@ -43,7 +44,7 @@ Make sure you have the following installed on your local machine:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/summize.git
+    git clone https://github.com/KDvs123/ai-summerizer.git
     cd summize
     ```
 
